@@ -5,4 +5,4 @@ Intermediate HTML and CSS Course
 
 [Assignment](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-admin-dashboard)
 
-[Live](#)
+[Live](https://bielesz.github.io/odin-grid/)
